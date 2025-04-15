@@ -65,7 +65,10 @@ int main() {
 }
 ```
 # OUTPUT
+## SYMBOL FOUND:
 ![Screenshot 2025-04-15 105213](https://github.com/user-attachments/assets/22ebe3cf-d655-4a09-8380-3ecb7b77fbf0)
+# SYMBOL NOT FOUND:
+![Screenshot 2025-04-15 110704](https://github.com/user-attachments/assets/0b375ce4-3dc1-4935-8d55-77fa09dd5e7c)
 
 
 # RESULT
