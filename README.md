@@ -65,5 +65,7 @@ int main() {
 }
 ```
 # OUTPUT
+![Screenshot 2025-04-15 104044](https://github.com/user-attachments/assets/d5858470-ac8a-4a91-91b7-0e0af4d08aaa)
+
 # RESULT
-### The program to implement a symbol table is executed and the output is verified.
+The program to implement a symbol table is executed and the output is verified.
